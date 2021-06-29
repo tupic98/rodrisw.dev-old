@@ -5,7 +5,7 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6 text-center">
         <h2 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
-          rodrisw.<span class="text-indigo-600 text-6xl">&#60;</span><span class="text-red-600">/</span>dev<span class="text-indigo-600 text-6xl">&#62;</span>
+          rodrisw.<span class="text-indigo-600">&#60;</span><span class="text-red-600">/</span>dev<span class="text-indigo-600">&#62;</span>
         </h2>
         <h3 class="text-2xl leading-7 font-semibold">
           Rodrigo Alvarenga
